@@ -1,0 +1,2 @@
+myString = 'helloworld'
+print myString
